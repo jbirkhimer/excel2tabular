@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/excel2tabular.iml" filepath="$PROJECT_DIR$/excel2tabular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel2tabular-translator/excel2tabular-translator.iml" filepath="$PROJECT_DIR$/excel2tabular-translator/excel2tabular-translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel2tabular-webapp/excel2tabular-webapp.iml" filepath="$PROJECT_DIR$/excel2tabular-webapp/excel2tabular-webapp.iml" />
+    </modules>
+  </component>
+</project>
